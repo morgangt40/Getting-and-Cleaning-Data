@@ -30,7 +30,7 @@
 * Replacing the activity number with a descriptive string
 
 ### 4. Appropriately labels the data set with descriptive variable names
-*Code removes brackets from the feature names
+* Code removes brackets from the feature names
 
 ### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-*"melts" data to be grouped by subject and activity and calculates mean of each value for each activity and each subject
+* "melts" data to be grouped by subject and activity and calculates mean of each value for each activity and each subject
